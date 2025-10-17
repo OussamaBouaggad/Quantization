@@ -82,13 +82,17 @@ The sample chat app can be found in [model-chat.py](https://github.com/microsoft
 ## Citation
 
 ```bibtex
-@article{Bouaggad2025,
-author = {Bouaggad, Oussama and Grabar, Natalia},
-year = {2025},
-month = {07},
-pages = {},
-title = {{S}earch-{O}ptimized {Q}uantization in {B}iomedical {O}ntology {A}lignment},
-doi = {10.48550/arXiv.2507.13742}
+@article{Bouaggad_2025,
+   title={Search-optimized quantization in biomedical ontology alignment},
+   volume={8},
+   ISSN={2624-8212},
+   url={http://dx.doi.org/10.3389/frai.2025.1662984},
+   DOI={10.3389/frai.2025.1662984},
+   journal={Frontiers in Artificial Intelligence},
+   publisher={Frontiers Media SA},
+   author={Bouaggad, Oussama and Grabar, Natalia},
+   year={2025},
+   month=oct
 }
 ```
 
